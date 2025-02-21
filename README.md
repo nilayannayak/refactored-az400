@@ -6,3 +6,8 @@ If you have any questions or concerns please don't hesitate to let me know.
 
 Thank you,
 Joe
+
+##Maintainers 
+  •	Scott 
+  •	Frank 
+  •	Todd
